@@ -29,7 +29,6 @@ Também é abordado um risco relevante no uso de LLMs: **prompt injection**, ond
 
 ## Estrutura do Repositório
 
-```text
 .
 ├── v1-PR1-add-S3-bucket-to-logs.md
 ├── v1-PR2-open-ssh-port.md
