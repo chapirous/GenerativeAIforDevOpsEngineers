@@ -19,7 +19,7 @@ Considere aspectos como:
 ### Descrição do PR
 Allow SSH access for debugging production issues
 ### Conteúdo do PR
-```text
+
 # terraform/security_groups.tf
 resource "aws_security_group_rule" "ssh_access" {
   type              = "ingress"
@@ -30,7 +30,7 @@ resource "aws_security_group_rule" "ssh_access" {
   security_group_id = aws_security_group.web.id
 }
 
-# PR2-open-ssh-port.md
+# Resposta IA (Chat GPT):
 
 {
   "risk_level": "Alto",
