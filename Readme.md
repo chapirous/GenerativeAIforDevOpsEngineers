@@ -29,6 +29,7 @@ Também é abordado um risco relevante no uso de LLMs: **prompt injection**, ond
 
 ## Estrutura do Repositório
 
+```text
 .
 ├── v1-PR1-add-S3-bucket-to-logs.md
 ├── v1-PR2-open-ssh-port.md
@@ -50,6 +51,7 @@ Também é abordado um risco relevante no uso de LLMs: **prompt injection**, ond
 ├── v3-PR6-prompt-injection.md
 └── README.md
 
+```
 ## Requisitos da Análise
 
 Cada Pull Request é classificado obrigatoriamente pelos seguintes critérios:
