@@ -1,6 +1,7 @@
 # Análise Automatizada de Pull Requests com IA
 
-**Nome:** Alexandre Francisco Almeida  
+**Nome:** Alexandre Francisco Almeida
+**RA:** 2501261
 **Curso:** MBA Impacta – Turma CLC14
 
 ---
